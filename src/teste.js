@@ -1,2 +1,2 @@
-const riann = 20;
+const riann = 30;
 console.log (riann);
